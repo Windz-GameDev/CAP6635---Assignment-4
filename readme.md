@@ -50,7 +50,7 @@ pip install numpy matplotlib scikit-learn
 3. Clone this repository:
 
 ```
-git clone <repository-url>
+git clone https://github.com/Windz-GameDev/CAP6635---Assignment-4
 ```
 
 4. Navigate to the directory containing the notebook and start Jupyter Notebook:
